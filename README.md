@@ -4,8 +4,7 @@
 ---
 
 ## 2. CI/CD 파이프라인 다이어그램
-
-<img width="968" height="498" alt="스크린샷 2025-11-13 오후 5 56 21" src="https://github.com/user-attachments/assets/f718bf22-3845-4f23-aacd-f1877028d91f" />
+<img width="975" height="533" alt="스크린샷 2025-11-13 오후 6 00 26" src="https://github.com/user-attachments/assets/a65db86f-3a12-4828-b393-21b85d0226f4" />
 
 ---
 
